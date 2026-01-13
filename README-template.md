@@ -29,7 +29,10 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop design](design/desktop-design.png)
-![Mobile design](design/mobile-design.png)
+
+![Mobile design](design/mobie-design.png)
+
+![Active states](design/active-states.png)
 
 
 ### Links
