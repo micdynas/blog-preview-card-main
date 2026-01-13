@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop design](design\desktop-design.png)
-![Mobile design](design\desktop-design.png)
+![Desktop design](design/desktop-design.png)
+![Mobile design](design/mobile-design.png)
 
 
 ### Links
