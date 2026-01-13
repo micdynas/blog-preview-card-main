@@ -5,7 +5,6 @@ body{
     justify-content: center;
     padding-top: 7rem;
     
-   
 }
 .card{
     width: 21rem;
@@ -22,7 +21,6 @@ body{
     line-height: 1.6;
     font-family: "Figtree", sans-serif;
 
-   
 }
 .card-img-top{
     width: 19rem;
@@ -46,16 +44,22 @@ body{
     margin-bottom: 0.5rem;
     color:hsl(0, 0%, 7%) ;
 }
+.card-title:hover{
+    color:  hsl(47, 88%, 63%);
+
+}
 .card-text{
     font-size: 0.8rem;
     color:  hsl(0, 0%, 42%);
     font-weight: 500;
+
 }
 .card-text-2{
     font-size: 0.7rem;
      color:hsl(0, 0%, 7%) ;
     font-weight: 500;
     margin-bottom: 0.5rem;
+
 }
 .author{
     margin-top: 2rem;
@@ -69,8 +73,6 @@ body{
     border-radius: 50%;
     margin-right: 0.5rem;
    
-    
-   
 }
 .author strong{
     font-size: 0.8rem;
@@ -80,6 +82,6 @@ body{
 }
  @font-face {
     font-family: "Figtree";
-    src: url(assets\fonts\Figtree-Italic-VariableFont_wght.ttf) format("Woff2"),
-         url(assets\fonts\Figtree-VariableFont_wght.ttf) format("Woff2");
+    src: url('assets\fonts\Figtree-Italic-VariableFont_wght.ttf') format("Woff2"),
+         url('assets\fonts\Figtree-VariableFont_wght.ttf') format("Woff2");
  }
