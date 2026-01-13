@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/micdynas/blog-preview-card-main/tree/main)
+- Live Site URL: [Add live site URL here](https://micdynas.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -46,11 +46,10 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS
--Bootstrap
+- Bootstrap
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned how to use 
 
 To see how you can add code snippets, see below:
 
