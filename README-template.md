@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/micdynas/blog-preview-card-main/tree/main)
-- Live Site URL: [Add live site URL here](https://micdynas.github.io/blog-preview-card-main/)
+- Solution URL: [https://github.com/micdynas/blog-preview-card-main/tree/main]()
+- Live Site URL: [https://micdynas.github.io/blog-preview-card-main/]()
 
 ## My process
 
